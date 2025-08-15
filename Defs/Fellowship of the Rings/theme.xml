@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>ME_LOTR_Fellowship</defName>
+    <label>Music Expanded: The Fellowship of the Ring</label>
+    <description>Soundtrack from The Lord of the Rings: The Fellowship of the Ring integrated via Music Expanded Framework.</description>
+    <iconPath>UI/Icons/LOTR_Fellowship</iconPath>
+    <tracks>
+      <li>Fellowship_001</li>
+      <li>Fellowship_002</li>
+      <li>Fellowship_003</li>
+      <li>Fellowship_004</li>
+      <li>Fellowship_005</li>
+      <li>Fellowship_006</li>
+      <li>Fellowship_007</li>
+      <li>Fellowship_008</li>
+      <li>Fellowship_009</li>
+      <li>Fellowship_010</li>
+      <li>Fellowship_011</li>
+      <li>Fellowship_012</li>
+      <li>Fellowship_013</li>
+      <li>Fellowship_014</li>
+      <li>Fellowship_015</li>
+      <li>Fellowship_016</li>
+      <li>Fellowship_017</li>
+      <li>Fellowship_018</li>
+      <li>Fellowship_019</li>
+      <li>Fellowship_020</li>
+      <li>Fellowship_021</li>
+      <li>Fellowship_022</li>
+      <li>Fellowship_023</li>
+      <li>Fellowship_024</li>
+      <li>Fellowship_025</li>
+      <li>Fellowship_026</li>
+      <li>Fellowship_027</li>
+      <li>Fellowship_028</li>
+      <li>Fellowship_029</li>
+      <li>Fellowship_030</li>
+      <li>Fellowship_031</li>
+      <li>Fellowship_032</li>
+      <li>Fellowship_033</li>
+      <li>Fellowship_034</li>
+      <li>Fellowship_035</li>
+      <li>Fellowship_036</li>
+      <li>Fellowship_037</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>

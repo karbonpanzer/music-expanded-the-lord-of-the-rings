@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>ME_LOTR_TwoTowers</defName>
+    <label>Music Expanded: The Two Towers</label>
+    <description>Soundtrack from The Lord of the Rings: The Two Towers integrated via Music Expanded Framework.</description>
+    <iconPath>UI/Icons/LOTR_TwoTowers</iconPath>
+    <tracks>
+      <li>TwoTowers_001</li>
+      <li>TwoTowers_002</li>
+      <li>TwoTowers_003</li>
+      <li>TwoTowers_004</li>
+      <li>TwoTowers_005</li>
+      <li>TwoTowers_006</li>
+      <li>TwoTowers_007</li>
+      <li>TwoTowers_008</li>
+      <li>TwoTowers_009</li>
+      <li>TwoTowers_010</li>
+      <li>TwoTowers_011</li>
+      <li>TwoTowers_012</li>
+      <li>TwoTowers_013</li>
+      <li>TwoTowers_014</li>
+      <li>TwoTowers_015</li>
+      <li>TwoTowers_016</li>
+      <li>TwoTowers_017</li>
+      <li>TwoTowers_018</li>
+      <li>TwoTowers_019</li>
+      <li>TwoTowers_020</li>
+      <li>TwoTowers_021</li>
+      <li>TwoTowers_022</li>
+      <li>TwoTowers_023</li>
+      <li>TwoTowers_024</li>
+      <li>TwoTowers_025</li>
+      <li>TwoTowers_026</li>
+      <li>TwoTowers_027</li>
+      <li>TwoTowers_028</li>
+      <li>TwoTowers_029</li>
+      <li>TwoTowers_030</li>
+      <li>TwoTowers_031</li>
+      <li>TwoTowers_032</li>
+      <li>TwoTowers_033</li>
+      <li>TwoTowers_034</li>
+      <li>TwoTowers_035</li>
+      <li>TwoTowers_036</li>
+      <li>TwoTowers_037</li>
+      <li>TwoTowers_038</li>
+      <li>TwoTowers_039</li>
+      <li>TwoTowers_040</li>
+      <li>TwoTowers_041</li>
+      <li>TwoTowers_042</li>
+      <li>TwoTowers_043</li>
+      <li>TwoTowers_044</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>

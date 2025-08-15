@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_001</defName>
+    <label>The Fellowship of the Ring- A Conspiracy Unmasked</label>
+    <clipPath>MusicExpanded/Fellowship/A Conspiracy Unmasked</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_002</defName>
+    <label>The Fellowship of the Ring- A Shortcut To Mushrooms</label>
+    <clipPath>MusicExpanded/Fellowship/A Shortcut To Mushrooms</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_003</defName>
+    <label>The Fellowship of the Ring- Bag End</label>
+    <clipPath>MusicExpanded/Fellowship/Bag End</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_004</defName>
+    <label>The Fellowship of the Ring- Balin's Tomb</label>
+    <clipPath>MusicExpanded/Fellowship/Balin's Tomb</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_005</defName>
+    <label>The Fellowship of the Ring- Caras Galadhon</label>
+    <clipPath>MusicExpanded/Fellowship/Caras Galadhon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_006</defName>
+    <label>The Fellowship of the Ring- Farewell Dear Bilbo</label>
+    <clipPath>MusicExpanded/Fellowship/Farewell Dear Bilbo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_007</defName>
+    <label>The Fellowship of the Ring- Flaming Red Hair</label>
+    <clipPath>MusicExpanded/Fellowship/Flaming Red Hair</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_008</defName>
+    <label>The Fellowship of the Ring- Gilraen's Memorial</label>
+    <clipPath>MusicExpanded/Fellowship/Gilraen's Memorial</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_009</defName>
+    <label>The Fellowship of the Ring- Give Up The Halfling</label>
+    <clipPath>MusicExpanded/Fellowship/Give Up The Halfling</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_010</defName>
+    <label>The Fellowship of the Ring- Gollum</label>
+    <clipPath>MusicExpanded/Fellowship/Gollum</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_011</defName>
+    <label>The Fellowship of the Ring- Keep It Secret, Keep It Safe</label>
+    <clipPath>MusicExpanded/Fellowship/Keep It Secret, Keep It Safe</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_012</defName>
+    <label>The Fellowship of the Ring- Khazad-Dûm</label>
+    <clipPath>MusicExpanded/Fellowship/Khazad-Dûm</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_013</defName>
+    <label>The Fellowship of the Ring- May It Be</label>
+    <clipPath>MusicExpanded/Fellowship/May It Be</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_014</defName>
+    <label>The Fellowship of the Ring- Moria</label>
+    <clipPath>MusicExpanded/Fellowship/Moria</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_015</defName>
+    <label>The Fellowship of the Ring- Orthanc</label>
+    <clipPath>MusicExpanded/Fellowship/Orthanc</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_016</defName>
+    <label>The Fellowship of the Ring- Parth Galen</label>
+    <clipPath>MusicExpanded/Fellowship/Parth Galen</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_017</defName>
+    <label>The Fellowship of the Ring- Prologue_ One Ring To Rule Them A</label>
+    <clipPath>MusicExpanded/Fellowship/Prologue_ One Ring To Rule Them A</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_018</defName>
+    <label>The Fellowship of the Ring- Rivendell</label>
+    <clipPath>MusicExpanded/Fellowship/Rivendell</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_019</defName>
+    <label>The Fellowship of the Ring- Saruman The White</label>
+    <clipPath>MusicExpanded/Fellowship/Saruman The White</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_020</defName>
+    <label>The Fellowship of the Ring- Strider</label>
+    <clipPath>MusicExpanded/Fellowship/Strider</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_021</defName>
+    <label>The Fellowship of the Ring- The Caverns Of Isengard</label>
+    <clipPath>MusicExpanded/Fellowship/The Caverns Of Isengard</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_022</defName>
+    <label>The Fellowship of the Ring- The Council Of Elrond Assembles</label>
+    <clipPath>MusicExpanded/Fellowship/The Council Of Elrond Assembles</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_023</defName>
+    <label>The Fellowship of the Ring- The Departure Of Boromir</label>
+    <clipPath>MusicExpanded/Fellowship/The Departure Of Boromir</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_024</defName>
+    <label>The Fellowship of the Ring- The Doors Of Durin</label>
+    <clipPath>MusicExpanded/Fellowship/The Doors Of Durin</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_025</defName>
+    <label>The Fellowship of the Ring- The Fighting Uruk-Hai</label>
+    <clipPath>MusicExpanded/Fellowship/The Fighting Uruk-Hai</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_026</defName>
+    <label>The Fellowship of the Ring- The Great Eye</label>
+    <clipPath>MusicExpanded/Fellowship/The Great Eye</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_027</defName>
+    <label>The Fellowship of the Ring- The Mirror Of Galadriel</label>
+    <clipPath>MusicExpanded/Fellowship/The Mirror Of Galadriel</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_028</defName>
+    <label>The Fellowship of the Ring- The Nazgûl</label>
+    <clipPath>MusicExpanded/Fellowship/The Nazgûl</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_029</defName>
+    <label>The Fellowship of the Ring- The Pass Of Caradhras</label>
+    <clipPath>MusicExpanded/Fellowship/The Pass Of Caradhras</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_030</defName>
+    <label>The Fellowship of the Ring- The Passing Of The Elves</label>
+    <clipPath>MusicExpanded/Fellowship/The Passing Of The Elves</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_031</defName>
+    <label>The Fellowship of the Ring- The Road Goes Ever On... (Part 1)</label>
+    <clipPath>MusicExpanded/Fellowship/The Road Goes Ever On... (Part 1)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_032</defName>
+    <label>The Fellowship of the Ring- The Road Goes Ever On... (Part 2)</label>
+    <clipPath>MusicExpanded/Fellowship/The Road Goes Ever On... (Part 2)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_033</defName>
+    <label>The Fellowship of the Ring- The Shire</label>
+    <clipPath>MusicExpanded/Fellowship/The Shire</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_034</defName>
+    <label>The Fellowship of the Ring- The Sword That Was Broken</label>
+    <clipPath>MusicExpanded/Fellowship/The Sword That Was Broken</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_035</defName>
+    <label>The Fellowship of the Ring- Three Is Company</label>
+    <clipPath>MusicExpanded/Fellowship/Three Is Company</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_036</defName>
+    <label>The Fellowship of the Ring- Very Old Friends</label>
+    <clipPath>MusicExpanded/Fellowship/Very Old Friends</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>Fellowship_037</defName>
+    <label>The Fellowship of the Ring- Weathertop</label>
+    <clipPath>MusicExpanded/Fellowship/Weathertop</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

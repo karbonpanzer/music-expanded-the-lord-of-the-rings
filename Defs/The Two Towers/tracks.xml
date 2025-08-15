@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_001</defName>
+    <label>The Two Towers- Aragorn's Return</label>
+    <clipPath>MusicExpanded/TwoTowers/Aragorn's Return</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_002</defName>
+    <label>The Two Towers- Arwen's Fate</label>
+    <clipPath>MusicExpanded/TwoTowers/Arwen's Fate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_003</defName>
+    <label>The Two Towers- Edoras</label>
+    <clipPath>MusicExpanded/TwoTowers/Edoras</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_004</defName>
+    <label>The Two Towers- Elven Rope</label>
+    <clipPath>MusicExpanded/TwoTowers/Elven Rope</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_005</defName>
+    <label>The Two Towers- Ent-Draught</label>
+    <clipPath>MusicExpanded/TwoTowers/Ent-Draught</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_006</defName>
+    <label>The Two Towers- Exodus From Edoras</label>
+    <clipPath>MusicExpanded/TwoTowers/Exodus From Edoras</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_007</defName>
+    <label>The Two Towers- Fangorn</label>
+    <clipPath>MusicExpanded/TwoTowers/Fangorn</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_008</defName>
+    <label>The Two Towers- Faramir's Good Council</label>
+    <clipPath>MusicExpanded/TwoTowers/Faramir's Good Council</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_009</defName>
+    <label>The Two Towers- Gandalf The White</label>
+    <clipPath>MusicExpanded/TwoTowers/Gandalf The White</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_010</defName>
+    <label>The Two Towers- Glamdring</label>
+    <clipPath>MusicExpanded/TwoTowers/Glamdring</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_011</defName>
+    <label>The Two Towers- Long Ways To Go Yet</label>
+    <clipPath>MusicExpanded/TwoTowers/Long Ways To Go Yet</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_012</defName>
+    <label>The Two Towers- Lost In Emyn Muil</label>
+    <clipPath>MusicExpanded/TwoTowers/Lost In Emyn Muil</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_013</defName>
+    <label>The Two Towers- Master Peregrin's Plan</label>
+    <clipPath>MusicExpanded/TwoTowers/Master Peregrin's Plan</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_014</defName>
+    <label>The Two Towers- My Precious</label>
+    <clipPath>MusicExpanded/TwoTowers/My Precious</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_015</defName>
+    <label>The Two Towers- Night Camp</label>
+    <clipPath>MusicExpanded/TwoTowers/Night Camp</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_016</defName>
+    <label>The Two Towers- One Of The Dúnedain</label>
+    <clipPath>MusicExpanded/TwoTowers/One Of The Dúnedain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_017</defName>
+    <label>The Two Towers- Refuge At Helms Deep</label>
+    <clipPath>MusicExpanded/TwoTowers/Refuge At Helms Deep</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_018</defName>
+    <label>The Two Towers- Retreat</label>
+    <clipPath>MusicExpanded/TwoTowers/Retreat</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_019</defName>
+    <label>The Two Towers- Rock And Pool</label>
+    <clipPath>MusicExpanded/TwoTowers/Rock And Pool</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_020</defName>
+    <label>The Two Towers- Sons Of The Steward</label>
+    <clipPath>MusicExpanded/TwoTowers/Sons Of The Steward</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_021</defName>
+    <label>The Two Towers- The Banishment Of Éomer</label>
+    <clipPath>MusicExpanded/TwoTowers/The Banishment Of Éomer</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_022</defName>
+    <label>The Two Towers- The Battle Of The Hornburg</label>
+    <clipPath>MusicExpanded/TwoTowers/The Battle Of The Hornburg</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_023</defName>
+    <label>The Two Towers- The Breach Of The Deeping Wall</label>
+    <clipPath>MusicExpanded/TwoTowers/The Breach Of The Deeping Wall</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_024</defName>
+    <label>The Two Towers- The Court Of Meduseld</label>
+    <clipPath>MusicExpanded/TwoTowers/The Court Of Meduseld</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_025</defName>
+    <label>The Two Towers- The Dreams Of Trees</label>
+    <clipPath>MusicExpanded/TwoTowers/The Dreams Of Trees</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_026</defName>
+    <label>The Two Towers- The Entmoot Decides</label>
+    <clipPath>MusicExpanded/TwoTowers/The Entmoot Decides</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_027</defName>
+    <label>The Two Towers- The Forests Of Ithilien</label>
+    <clipPath>MusicExpanded/TwoTowers/The Forests Of Ithilien</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_028</defName>
+    <label>The Two Towers- The Heir Of Númenor</label>
+    <clipPath>MusicExpanded/TwoTowers/The Heir Of Númenor</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_029</defName>
+    <label>The Two Towers- The Host Of The Eldar</label>
+    <clipPath>MusicExpanded/TwoTowers/The Host Of The Eldar</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_030</defName>
+    <label>The Two Towers- The King's Decision</label>
+    <clipPath>MusicExpanded/TwoTowers/The King's Decision</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_031</defName>
+    <label>The Two Towers- The Last March Of The Ents</label>
+    <clipPath>MusicExpanded/TwoTowers/The Last March Of The Ents</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_032</defName>
+    <label>The Two Towers- The Nazgûl Attack</label>
+    <clipPath>MusicExpanded/TwoTowers/The Nazgûl Attack</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_033</defName>
+    <label>The Two Towers- The Plains Of Rohan</label>
+    <clipPath>MusicExpanded/TwoTowers/The Plains Of Rohan</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_034</defName>
+    <label>The Two Towers- The Story Foretold</label>
+    <clipPath>MusicExpanded/TwoTowers/The Story Foretold</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_035</defName>
+    <label>The Two Towers- The Tales That Really Matter</label>
+    <clipPath>MusicExpanded/TwoTowers/The Tales That Really Matter</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_036</defName>
+    <label>The Two Towers- The Three Hunters</label>
+    <clipPath>MusicExpanded/TwoTowers/The Three Hunters</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_037</defName>
+    <label>The Two Towers- The Voice Of Saruman</label>
+    <clipPath>MusicExpanded/TwoTowers/The Voice Of Saruman</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_038</defName>
+    <label>The Two Towers- The Wolves Of Isengard</label>
+    <clipPath>MusicExpanded/TwoTowers/The Wolves Of Isengard</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_039</defName>
+    <label>The Two Towers- Theoden Rides Forth</label>
+    <clipPath>MusicExpanded/TwoTowers/Theoden Rides Forth</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_040</defName>
+    <label>The Two Towers- Théoden King</label>
+    <clipPath>MusicExpanded/TwoTowers/Théoden King</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_041</defName>
+    <label>The Two Towers- Uglúk's Warriors</label>
+    <clipPath>MusicExpanded/TwoTowers/Uglúk's Warriors</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_042</defName>
+    <label>The Two Towers- War Is Upon Us</label>
+    <clipPath>MusicExpanded/TwoTowers/War Is Upon Us</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_043</defName>
+    <label>The Two Towers- Where Is The Horse And The Rider_</label>
+    <clipPath>MusicExpanded/TwoTowers/Where Is The Horse And The Rider_</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>TwoTowers_044</defName>
+    <label>The Two Towers- Wraiths On Wings</label>
+    <clipPath>MusicExpanded/TwoTowers/Wraiths On Wings</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.ThemeDef>
+    <defName>ME_LOTR_Return</defName>
+    <label>Music Expanded: The Return of the King</label>
+    <description>Soundtrack from The Lord of the Rings: The Return of the King integrated via Music Expanded Framework.</description>
+    <iconPath>UI/Icons/LOTR_Return</iconPath>
+    <tracks>
+      <li>ReturnOfKing_001</li>
+      <li>ReturnOfKing_002</li>
+      <li>ReturnOfKing_003</li>
+      <li>ReturnOfKing_004</li>
+      <li>ReturnOfKing_005</li>
+      <li>ReturnOfKing_006</li>
+      <li>ReturnOfKing_007</li>
+      <li>ReturnOfKing_008</li>
+      <li>ReturnOfKing_009</li>
+      <li>ReturnOfKing_010</li>
+      <li>ReturnOfKing_011</li>
+      <li>ReturnOfKing_012</li>
+      <li>ReturnOfKing_013</li>
+      <li>ReturnOfKing_014</li>
+      <li>ReturnOfKing_015</li>
+      <li>ReturnOfKing_016</li>
+      <li>ReturnOfKing_017</li>
+      <li>ReturnOfKing_018</li>
+      <li>ReturnOfKing_019</li>
+      <li>ReturnOfKing_020</li>
+      <li>ReturnOfKing_021</li>
+      <li>ReturnOfKing_022</li>
+      <li>ReturnOfKing_023</li>
+      <li>ReturnOfKing_024</li>
+      <li>ReturnOfKing_025</li>
+      <li>ReturnOfKing_026</li>
+      <li>ReturnOfKing_027</li>
+      <li>ReturnOfKing_028</li>
+      <li>ReturnOfKing_029</li>
+      <li>ReturnOfKing_030</li>
+      <li>ReturnOfKing_031</li>
+      <li>ReturnOfKing_032</li>
+      <li>ReturnOfKing_033</li>
+      <li>ReturnOfKing_034</li>
+      <li>ReturnOfKing_035</li>
+      <li>ReturnOfKing_036</li>
+      <li>ReturnOfKing_037</li>
+      <li>ReturnOfKing_038</li>
+      <li>ReturnOfKing_039</li>
+      <li>ReturnOfKing_040</li>
+      <li>ReturnOfKing_041</li>
+      <li>ReturnOfKing_042</li>
+      <li>ReturnOfKing_043</li>
+      <li>ReturnOfKing_044</li>
+      <li>ReturnOfKing_045</li>
+      <li>ReturnOfKing_046</li>
+      <li>ReturnOfKing_047</li>
+      <li>ReturnOfKing_048</li>
+      <li>ReturnOfKing_049</li>
+      <li>ReturnOfKing_050</li>
+      <li>ReturnOfKing_051</li>
+      <li>ReturnOfKing_052</li>
+      <li>ReturnOfKing_053</li>
+    </tracks>
+  </MusicExpanded.ThemeDef>
+</Defs>

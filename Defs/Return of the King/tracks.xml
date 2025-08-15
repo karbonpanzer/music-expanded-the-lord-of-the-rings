@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_001</defName>
+    <label>The Return of the King- A Coronal Of Silver And Gold</label>
+    <clipPath>MusicExpanded/ReturnOfKing/A Coronal Of Silver And Gold</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_002</defName>
+    <label>The Return of the King- Allegiance To Denethor</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Allegiance To Denethor</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_003</defName>
+    <label>The Return of the King- Andúril - Flame Of The West</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Andúril - Flame Of The West</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_004</defName>
+    <label>The Return of the King- Bilbo's Song</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Bilbo's Song</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_005</defName>
+    <label>The Return of the King- Days Of The Ring</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Days Of The Ring</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_006</defName>
+    <label>The Return of the King- Dernhelm In Battle</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Dernhelm In Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_007</defName>
+    <label>The Return of the King- Dwimorberg - The Haunted Mountain</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Dwimorberg - The Haunted Mountain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_008</defName>
+    <label>The Return of the King- Elanor</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Elanor</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_009</defName>
+    <label>The Return of the King- Flight From Edoras</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Flight From Edoras</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_010</defName>
+    <label>The Return of the King- Gollum's Villainy</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Gollum's Villainy</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_011</defName>
+    <label>The Return of the King- Grond - The Hammer Of The Underwo</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Grond - The Hammer Of The Underwo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_012</defName>
+    <label>The Return of the King- Journey To The Cross-Roads</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Journey To The Cross-Roads</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_013</defName>
+    <label>The Return of the King- Marshalling At Dunharrow</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Marshalling At Dunharrow</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_014</defName>
+    <label>The Return of the King- Master Meriadoc, Swordthain</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Master Meriadoc, Swordthain</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_015</defName>
+    <label>The Return of the King- Merry's Simple Courage</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Merry's Simple Courage</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_016</defName>
+    <label>The Return of the King- Mount Doom</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Mount Doom</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_017</defName>
+    <label>The Return of the King- Osgilliath Invaded</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Osgilliath Invaded</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_018</defName>
+    <label>The Return of the King- Return To Edoras</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Return To Edoras</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_019</defName>
+    <label>The Return of the King- Roots And Beginnings</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Roots And Beginnings</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_020</defName>
+    <label>The Return of the King- Shelob The Great</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Shelob The Great</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_021</defName>
+    <label>The Return of the King- Shelob's Lair</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Shelob's Lair</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_022</defName>
+    <label>The Return of the King- Shieldmaiden Of Rohan</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Shieldmaiden Of Rohan</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_023</defName>
+    <label>The Return of the King- The Battle Of The Pelennor Fields</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Battle Of The Pelennor Fields</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_024</defName>
+    <label>The Return of the King- The Chalice Passed</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Chalice Passed</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_025</defName>
+    <label>The Return of the King- The Crack Of Doom</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Crack Of Doom</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_026</defName>
+    <label>The Return of the King- The Eagles</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Eagles</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_027</defName>
+    <label>The Return of the King- The Eyes Of The White Tower</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Eyes Of The White Tower</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_028</defName>
+    <label>The Return of the King- The Fellowship Reunited</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Fellowship Reunited</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_029</defName>
+    <label>The Return of the King- The Foot Of Orthanc</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Foot Of Orthanc</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_030</defName>
+    <label>The Return of the King- The Grace Of Undómiel</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Grace Of Undómiel</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_031</defName>
+    <label>The Return of the King- The Green Dragon</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Green Dragon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_032</defName>
+    <label>The Return of the King- The Houses Of Healing</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Houses Of Healing</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_033</defName>
+    <label>The Return of the King- The Journey To The Grey Havens</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Journey To The Grey Havens</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_034</defName>
+    <label>The Return of the King- The Land Of Shadow</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Land Of Shadow</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_035</defName>
+    <label>The Return of the King- The Last Debate</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Last Debate</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_036</defName>
+    <label>The Return of the King- The Lighting Of The Beacons</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Lighting Of The Beacons</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_037</defName>
+    <label>The Return of the King- The Mouth Of Sauron</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Mouth Of Sauron</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_038</defName>
+    <label>The Return of the King- The Mûmakil</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Mûmakil</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_039</defName>
+    <label>The Return of the King- The Palantír</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Palantír</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_040</defName>
+    <label>The Return of the King- The Parting Of Sam And Frodo</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Parting Of Sam And Frodo</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_041</defName>
+    <label>The Return of the King- The Passing Of The Grey Company</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Passing Of The Grey Company</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_042</defName>
+    <label>The Return of the King- The Passing Of Théoden</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Passing Of Théoden</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_043</defName>
+    <label>The Return of the King- The Paths Of The Dead</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Paths Of The Dead</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_044</defName>
+    <label>The Return of the King- The Pyre Of Denethor</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Pyre Of Denethor</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_045</defName>
+    <label>The Return of the King- The Road To Isengard</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Road To Isengard</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_046</defName>
+    <label>The Return of the King- The Sacrifice Of Faramir</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Sacrifice Of Faramir</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_047</defName>
+    <label>The Return of the King- The Siege Of Gondor</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Siege Of Gondor</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_048</defName>
+    <label>The Return of the King- The Stairs Of Cirith Ungol</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Stairs Of Cirith Ungol</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_049</defName>
+    <label>The Return of the King- The Tomb Of The Stewards</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Tomb Of The Stewards</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_050</defName>
+    <label>The Return of the King- The Tower Of Cirith Ungol</label>
+    <clipPath>MusicExpanded/ReturnOfKing/The Tower Of Cirith Ungol</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_051</defName>
+    <label>The Return of the King- _A Far Green Country_</label>
+    <clipPath>MusicExpanded/ReturnOfKing/_A Far Green Country_</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_052</defName>
+    <label>The Return of the King- _For Frodo_</label>
+    <clipPath>MusicExpanded/ReturnOfKing/_For Frodo_</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ReturnOfKing_053</defName>
+    <label>The Return of the King- Éowyn's Dream</label>
+    <clipPath>MusicExpanded/ReturnOfKing/Éowyn's Dream</clipPath>
+  </MusicExpanded.TrackDef>
+</Defs>
